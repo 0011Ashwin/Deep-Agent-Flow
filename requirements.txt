@@ -2,3 +2,4 @@ deepagents
 langchain
 langchain-openai
 langchain-groq
+tavily-python
