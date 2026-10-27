@@ -2,7 +2,7 @@
 
 A demonstration of building **deep agents** using the `deepagents` library. This project shows how to create agents that can **plan**, **use subagents**, and **leverage file systems** for complex, multi-step tasks.
 .
-## Table of Contents
+## Table of Contents-
 
 - [Overview](#overview)
 - [Key Features](#key-features)
